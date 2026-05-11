@@ -1,0 +1,30 @@
+
+# 🏃 AnaRun — Performance Esportiva
+
+App mobile desenvolvido com **React Native + Expo** voltado para corredores que querem acompanhar sua evolução nos treinos.
+
+## 📱 Sobre o projeto
+
+O AnaRun permite que o atleta registre informações antes e depois de cada treino, acompanhando sua dedicação e evolução ao longo do tempo.
+
+## ✨ Funcionalidades
+
+- 📋 **Pré-treino** — registre como você está antes de correr
+- 📊 **Pós-treino** — anote seu desempenho após o treino
+- 📓 **Diário** — histórico completo dos seus treinos
+- 🏅 **Corridas** — visualize detalhes de cada corrida
+
+## 🚀 Tecnologias
+
+- React Native
+- Expo
+- TypeScript
+
+## 🔧 Status
+
+🚧 Em desenvolvimento
+
+## 👩‍💻 Autora
+
+Ana Galvão — [LinkedIn](https://www.linkedin.com/in/ana-galvão)
+EOF
