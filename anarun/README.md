@@ -1,50 +1,30 @@
-# Welcome to your Expo app 👋
+cat > anarun/README.md << 'EOF'
+# 🏃 AnaRun — Performance Esportiva
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+App mobile desenvolvido com **React Native + Expo** voltado para corredores que querem acompanhar sua evolução nos treinos.
 
-## Get started
+## 📱 Sobre o projeto
 
-1. Install dependencies
+O AnaRun permite que o atleta registre informações antes e depois de cada treino, acompanhando sua dedicação e evolução ao longo do tempo.
 
-   ```bash
-   npm install
-   ```
+## ✨ Funcionalidades
 
-2. Start the app
+- 📋 **Pré-treino** — registre como você está antes de correr
+- 📊 **Pós-treino** — anote seu desempenho após o treino
+- 📓 **Diário** — histórico completo dos seus treinos
+- 🏅 **Corridas** — visualize detalhes de cada corrida
 
-   ```bash
-   npx expo start
-   ```
+## 🚀 Tecnologias
 
-In the output, you'll find options to open the app in a
+- React Native
+- Expo
+- TypeScript
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🔧 Status
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+🚧 Em desenvolvimento
 
-## Get a fresh project
+## 👩‍💻 Autora
 
-When you're ready, run:
+Ana Galvão — [LinkedIn](https://www.linkedin.com/in/ana-galvão)
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
